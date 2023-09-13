@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+<dbip>192.168.1.223</dbip>
+<dbusername>root</dbusername>
+<dbpassword>s@mp@rk@123</dbpassword>
+<dbname>asterisk</dbname>
+<ctiip>192.168.1.223:8084</ctiip>
+<confip>192.168.1.223:9898</confip>
+<loglevel>0</loglevel>
+<logfilepath>C:\\logs\\</logfilepath>
+</root>
